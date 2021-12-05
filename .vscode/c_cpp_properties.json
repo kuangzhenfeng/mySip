@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "E:\\gcc-linaro-6.4.1-2018.05-i686-mingw32_aarch64-linux-gnu\\aarch64-linux-gnu\\**",
+                "E:\\QT5.13.0_aarch64-linux-gnu\\**",
+                "C:\\Users\\StevenK\\Sync\\qt\\lib\\**",
+                "D:\\myProject\\QTProjevt\\build-sip-aarch64_linux_gnu-Debug\\**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.17763.0",
+            "compilerPath": "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.21.27702/bin/Hostx64/x64/cl.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "msvc-x64"
+        }
+    ],
+    "version": 4
+}

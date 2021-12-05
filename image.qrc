@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/云呼叫联络中心_图标包/备注_7.png</file>
+        <file>image/云呼叫联络中心_图标包/拨打电话_21.png</file>
+        <file>image/云呼叫联络中心_图标包/菜单_4.png</file>
+        <file>image/云呼叫联络中心_图标包/成功_24.png</file>
+        <file>image/云呼叫联络中心_图标包/成员管理_12.png</file>
+        <file>image/云呼叫联络中心_图标包/错误_15.png</file>
+        <file>image/云呼叫联络中心_图标包/当月通话记录_2.png</file>
+        <file>image/云呼叫联络中心_图标包/断开连接_0.png</file>
+        <file>image/云呼叫联络中心_图标包/概览_10.png</file>
+        <file>image/云呼叫联络中心_图标包/挂断_26.png</file>
+        <file>image/云呼叫联络中心_图标包/关闭_8.png</file>
+        <file>image/云呼叫联络中心_图标包/黑名单_11.png</file>
+        <file>image/云呼叫联络中心_图标包/警告_22.png</file>
+        <file>image/云呼叫联络中心_图标包/客户资源管理_28.png</file>
+        <file>image/云呼叫联络中心_图标包/来电_20.png</file>
+        <file>image/云呼叫联络中心_图标包/历史通话记录_1.png</file>
+        <file>image/云呼叫联络中心_图标包/连接_3.png</file>
+        <file>image/云呼叫联络中心_图标包/列表-拨打电话_16.png</file>
+        <file>image/云呼叫联络中心_图标包/列表-转接_18.png</file>
+        <file>image/云呼叫联络中心_图标包/数据统计_6.png</file>
+        <file>image/云呼叫联络中心_图标包/刷新_9.png</file>
+        <file>image/云呼叫联络中心_图标包/提示_19.png</file>
+        <file>image/云呼叫联络中心_图标包/通话中_17.png</file>
+        <file>image/云呼叫联络中心_图标包/通知_13.png</file>
+        <file>image/云呼叫联络中心_图标包/系统设置_14.png</file>
+        <file>image/云呼叫联络中心_图标包/消息_5.png</file>
+        <file>image/云呼叫联络中心_图标包/转接_27.png</file>
+        <file>image/云呼叫联络中心_图标包/转接2_25.png</file>
+        <file>image/云呼叫联络中心_图标包/坐席头像_23.png</file>
+        <file>image/wallpaper.jpg</file>
+    </qresource>
+</RCC>
